@@ -1,4 +1,0 @@
-transliterate
-six
-patool
-setuptools
