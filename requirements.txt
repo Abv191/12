@@ -1,0 +1,4 @@
+transliterate
+six
+patool
+setuptools
