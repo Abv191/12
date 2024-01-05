@@ -10,5 +10,9 @@ setup(
         ]
     },
     install_requires=[
-    ]
+        'transliterate',
+        'six',
+        'patool',
+        'setuptools'
+    ],
 )
